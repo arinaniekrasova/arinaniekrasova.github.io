@@ -89,7 +89,7 @@ input.input100 {
   top: -2px;
   left: -2px;
   pointer-events: none;
-  border: 2px solid #4272d7;
+  border: 2px solid #efa80d;
   border-radius: 25px;
   visibility: hidden;
   opacity: 0;
@@ -355,7 +355,7 @@ input.input100 {
 
 .how-btn:hover {
   background-color: #fff;
-  color: #4272d7;
+  color: #efa80d;
 }
 
 
